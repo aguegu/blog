@@ -11,3 +11,4 @@
 	path = public
 	url = git@github.com:aguegu/aguegu.github.io.git
 	branch = master
+	ignore = all
