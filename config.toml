@@ -5,6 +5,17 @@ theme = "mainroad"
 googleAnalytics = "UA-110480634-1"
 disqusShortname = "agus-mill"
 
+[Author] # Used in authorbox
+    name = "aGuegu"
+    bio = "a programmer in China"
+    avatar ="//0.gravatar.com/avatar/d0aa94b6b25657acb0b659ad74f38b96"
+
+[Params]
+    subtitle = "Just make it."
+    authorbox = true
+    post_navigation = true
+    readmore = true
+
 [Params.widgets]
     search = true # Enable "Search" widget
     recent_articles = true # Enable "Recent articles" widget
@@ -13,8 +24,10 @@ disqusShortname = "agus-mill"
     tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
+
     # Enable "Social" widget, if any of "social_*" set a value
     social_facebook = "aguegu"
     social_twitter = "aguegu"
     social_linkedin = "weihong-guan-68aa43aa"
     social_github = "aguegu"
+    social_weibo = "aguegu"
