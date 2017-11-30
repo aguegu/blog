@@ -1,0 +1,9 @@
+[submodule "themes/bleak"]
+	path = themes/bleak
+	url = https://github.com/Zenithar/hugo-theme-bleak.git
+[submodule "themes/BluestNight"]
+	path = themes/BluestNight
+	url = https://gitlab.com/BluestNight/BluestNight.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad

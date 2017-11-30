@@ -1,0 +1,20 @@
+baseurl = "/"
+languageCode = "zh"
+title = "古作坊 Agu's Mill"
+theme = "mainroad"
+googleAnalytics = "UA-110480634-1"
+disqusShortname = "agus-mill"
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "aguegu"
+    social_twitter = "aguegu"
+    social_linkedin = "weihong-guan-68aa43aa"
+    social_github = "aguegu"
