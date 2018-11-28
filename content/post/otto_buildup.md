@@ -1,7 +1,6 @@
 ---
 title: "Micro:bit on otto"
-date: 2018-03-30T16:21:56+08:00
-draft: false
+date: 2018-11-29T05:21:56+08:00
 categories: ["micro:bit"]
 tags: ["microbit", "otto", "servo"]
 ---
